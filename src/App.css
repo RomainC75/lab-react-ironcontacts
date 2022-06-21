@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+img{
+  width:70px;
+}
+
+.charts{
+  margin:0 auto;
+}
+
+.trophy{
+  width:25px;
+}
